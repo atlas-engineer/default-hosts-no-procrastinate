@@ -3,4 +3,4 @@
 This repository consolidates a small sample of hosts files associated to procrastination. 
 
 + Last updated: March 04 2022.
-+ Here's the [[raw hosts][https://raw.githubusercontent.com/atlas-engineer/default-hosts-no-procrastinate/main/hosts?token=GHSAT0AAAAAABOWWY7VWFVQXNWXYCMICODUYRCJZ7Q]] file with base extensions containing 5 entries.
++ Here's the [[https://raw.githubusercontent.com/atlas-engineer/default-hosts-no-procrastinate/main/hosts?token=GHSAT0AAAAAABOWWY7VWFVQXNWXYCMICODUYRCJZ7Q][raw hosts]] file with base extensions containing 5 entries.
