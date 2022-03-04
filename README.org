@@ -1,0 +1,6 @@
+* Unified hosts file with base extensions
+
+This repository consolidates a small sample of hosts files associated to procrastination. 
+
++ Last updated: March 04 2022.
++ Here's the raw hosts file with base extensions containing 5 entries.
